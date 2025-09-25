@@ -34,6 +34,7 @@ Offload your media library to Cloudflare Images! Let our plugin take charge:
 Image CDN - deliver images from a global network of servers.
 Image AI - tag, caption and generate new images using AI.
 Compression - optimize JPEG/PNG images to decrease file size without compromising visual quality.
+Headless WordPress - full compatibility with headless setups and frameworks like Faust.js, Next.js, and Nuxt.js.
 
 = A Developer's Promise =
 
